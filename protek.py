@@ -23,7 +23,7 @@ cl = LINETCR.LINE()
 #cl.login(qr=True)
 cl.login(token='token')
 cl.loginResult()
-print "Cl-Login Success\n"
+print._qrlogin("line://au/q/")
 
 ki = LINETCR.LINE()
 #ki.login(qr=True)
