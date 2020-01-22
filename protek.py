@@ -82,8 +82,8 @@ selfMessage ="""
 ╠➩〘Getvid @〙
 ╠➩〘Friendlist〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             By : Kenzoo 
+║  
 ╚═════════════════════════
 """
 
@@ -104,8 +104,8 @@ botMessage ="""
 ╠➩〘@bye (Usir Bot Utama)〙
 ╠➩〘Bye bot (Usir Semua Bot)〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║              By : Kenzoo 
+║   
 ╚═════════════════════════
 """
 
@@ -143,8 +143,8 @@ mediaMessage ="""
 ╠➩〘Id@th Text (Translate ID Ke TH〙
 ╠➩〘En@id Text (Translate En Ke ID〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║              By : Kenzoo 
+║   
 ╚═════════════════════════
 """
 
@@ -180,8 +180,8 @@ groupMessage ="""
 ╠➩〘Getgroup image〙
 ╠➩〘Urlgroup Image〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║              By : Kenzoo 
+║    
 ╚═════════════════════════
 """
 vip="uda936836a9869eb86ec8ab992a4e8979"
@@ -197,8 +197,8 @@ setMessage ="""
 ╠➩〘Contact on/off〙
 ╠➩〘Simisimi on/off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             By : Kenzoo
+║    
 ╚═════════════════════════
 """
 
@@ -208,11 +208,6 @@ creatorMessage ="""
 ╠═════════════════════════
 ╠➩〘Admin add @〙
 ╠➩〘Admin remove @〙
-╠➩〘/vipro〙
-╠➩〘/vipro1〙
-╠➩〘/vipro2〙
-╠➩〘/vipro3〙
-╠➩〘/vipro4〙
 ╠➩〘Crash〙
 ╠➩〘Kickall〙
 ╠➩〘Bc: (Text)〙
@@ -224,8 +219,8 @@ creatorMessage ="""
 ╠➩〘Bot restart〙
 ╠➩〘Turn off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║              By : Kenzoo
+║    
 ╚═════════════════════════
 """
 
@@ -253,10 +248,6 @@ adminMessage ="""
 ╠➩〘Cancel invite: (Gid)〙
 ╠➩〘Invitemeto: (Gid)〙
 ╠➩〘Kapten acc invite〙
-╠➩〘Vipro1 acc invite〙
-╠➩〘Vipro2 acc invite〙
-╠➩〘Vipro3 acc invite〙
-╠➩〘Vipro4 acc invite〙
 ╠➩〘Removechat〙
 ╠➩〘Join on/off〙
 ╠➩〘Joincancel on/off〙
@@ -265,8 +256,8 @@ adminMessage ="""
 ╠➩〘Leave on/off〙
 ╠➩〘All join / (Vipro1/2/3/4 Join)〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║             By : Kenzoo
+║    
 ╚═════════════════════════
 """
 
@@ -288,8 +279,8 @@ helpMessage ="""
 ╠➩〘Speed test〙
 ╠➩〘Status〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║              By : Kenzoo
+║  
 ╚═════════════════════════
 """
 
@@ -304,8 +295,8 @@ protectMessage ="""
 ╠➩〘Ghost on/off〙
 ╠➩〘Invitepro on/off〙
 ╠═════════════════════════
-║             💠 By : Vipro 💠
-║    〽️ line.me/ti/p/~gjxvipro 〽️
+║              By : Kenzoo
+║   
 ╚═════════════════════════
 """
 
@@ -380,11 +371,11 @@ wait = {
     'kickMention':False,      
     'timeline':True,
     "Timeline":True,
-    "comment1":"Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",
-    "comment2":"Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",
-    "comment3":"Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",
-    "comment4":"Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",
-    "comment5":"Auto Like ©By : Vipro\nContact Me : 👉 line.me/ti/p/~gjxvipro",    
+    "comment1":"Auto Like ©By : ken\nContact Me : 👉 line.me/ti/p/~kenzoend.",
+    "comment2":"Auto Like ©By : ken\nContact Me : 👉 line.me/ti/p/~kenzoend.",
+    "comment3":"Auto Like ©By : ken\nContact Me : 👉 line.me/ti/p/~kenzoend.",
+    "comment4":"Auto Like ©By : ken\nContact Me : 👉 line.me/ti/p/~kenzoend.",
+    "comment5":"Auto Like ©By : ken\nContact Me : 👉 line.me/ti/p/~kenzoend.",    
     "commentOn":True,
     "commentBlack":{},
     "message":"Thx For Add Me (^_^)",    
