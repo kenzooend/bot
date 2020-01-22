@@ -10,6 +10,15 @@ from googletrans import Translator
 from gtts import gTTS
 import time,random,sys,json,codecs,threading,glob,urllib,urllib2,urllib3,re,ast,os,subprocess,requests,tempfile
 
+
+client = Lineclient()
+client._qrlogin("line://au/q/")
+
+profile, setting, tracer = client.getProfile(), client.getSettings(), LineTracer(client)
+offbot, messageReq, wordsArray, waitingAnswer = [], {}, {}, {}
+
+print client._loginresult()
+
 cl = LINETCR.LINE()
 #cl.login(qr=True)
 cl.login(token='token')
